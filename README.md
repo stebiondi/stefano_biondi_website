@@ -1,2 +1,2 @@
 # stefano_biondi_website
-My personal website
+first tryout of a personal website
