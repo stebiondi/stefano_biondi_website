@@ -1,2 +1,2 @@
-# stefano_biondi_website
+# stefano_biondi
 first tryout of a personal website
